@@ -4,7 +4,13 @@
 <img src="https://www.bizneo.com/blog/wp-content/uploads/2023/06/Software-de-nomina-1024x575.jpg"  width="500"/>
 </div>
 
+## Índice:
 
+- Busca el SMI del año 2023 y copia el enlace en la tarea.
+- Calcula el embargo del salario de un trabajador que gana 2800€ al mes. Tiene una deuda de 14500 € por no haber abonado las rentas de su alquiler. El juzgado ha mandando orden de embargar parte legal del salario y el ingreso en la cuenta de consignación del juzgado. Además debes indicar en cuantas mensualidades debes realizar la retención en la nómina e ingresarla en la cuenta de consignación del Juzgado.ç
+- Calcula la cantidad que va a pagar el FOGASA a un trabajador que el juzgado ha dictado sentencia en el que se le reconoce un salario adeudado de 23.500€, y una indemnización de 45.000€, más un salario de tramitación de 2 5000 €.. Deben buscar en la aplicación del FOGASA. Antigüedad 1-2-2010. Extinción 20-10-22, fecha demanda 20-10-22.
+
+---
 ### 1. Busca el SMI del año 2023 y copia el enlace en la tarea.
 
 [El salario mínimo interprofesional publicado para 2023 se establece en 1080 euros](https://www.sepe.es/HomeSepe/gl/que-es-el-sepe/comunicacion-institucional/noticias/detalle-noticia.html?folder=/2023/Febrero/&detail=El-salario-minimo-interprofesional-publicado-para-2023-se-establece-en-1080-euros#:~:text=El%20salario%20m%C3%ADnimo%20interprofesional%20publicado%20para%202023%20se%20establece%20en%201.080%20euros,-15%20de%20febreiro&text=El%20BOE%20ha%20publicado%20el,los%2015.120%20euros%20brutos%20anuales.)
