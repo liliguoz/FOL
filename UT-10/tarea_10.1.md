@@ -1,5 +1,9 @@
 
-![]("https://www.bizneo.com/blog/wp-content/uploads/2023/06/Software-de-nomina.jpg")
+<div align="center">
+<h1> Salario y la nómina </h1>
+<img src="https://www.bizneo.com/blog/wp-content/uploads/2023/06/Software-de-nomina-1024x575.jpg"  width="500"/>
+</div>
+
 
 ### 1. Busca el SMI del año 2023 y copia el enlace en la tarea.
 
