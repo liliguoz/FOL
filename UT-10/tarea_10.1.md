@@ -7,7 +7,7 @@
 ## Índice:
 
 - Busca el SMI del año 2023 y copia el enlace en la tarea.
-- Calcula el embargo del salario de un trabajador que gana 2800€ al mes. Tiene una deuda de 14500 € por no haber abonado las rentas de su alquiler. El juzgado ha mandando orden de embargar parte legal del salario y el ingreso en la cuenta de consignación del juzgado. Además debes indicar en cuantas mensualidades debes realizar la retención en la nómina e ingresarla en la cuenta de consignación del Juzgado.ç
+- Calcula el embargo del salario de un trabajador que gana 2800€ al mes. Tiene una deuda de 14500 € por no haber abonado las rentas de su alquiler. El juzgado ha mandando orden de embargar parte legal del salario y el ingreso en la cuenta de consignación del juzgado. Además debes indicar en cuantas mensualidades debes realizar la retención en la nómina e ingresarla en la cuenta de consignación del Juzgado.
 - Calcula la cantidad que va a pagar el FOGASA a un trabajador que el juzgado ha dictado sentencia en el que se le reconoce un salario adeudado de 23.500€, y una indemnización de 45.000€, más un salario de tramitación de 2 5000 €.. Deben buscar en la aplicación del FOGASA. Antigüedad 1-2-2010. Extinción 20-10-22, fecha demanda 20-10-22.
 
 ---
